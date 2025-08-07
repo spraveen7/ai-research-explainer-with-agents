@@ -192,5 +192,5 @@ If you encounter any issues or have questions:
 - **Streamlit** for the web interface
 
 ---
-
+**Author:** Sai Praveen Bhamidipati
 **Built with ❤️ using Agentic AI principles**
