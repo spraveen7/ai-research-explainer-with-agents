@@ -30,7 +30,7 @@ The system employs **4 specialized AI agents** that work as a coordinated team:
 - **🔗 Orchestration**: CrewAI + LangChain
 - **🌐 Web Search**: Tavily API
 - **📊 Diagrams**: Mermaid syntax
-- **🖥️ Interface**: Command Line + Streamlit Web UI
+- **🖥️ Interface**: Command Line
 - **🐍 Language**: Python 3.8+
 
 ## ⚡ Quick Start
@@ -65,11 +65,6 @@ TAVILY_API_KEY=your_tavily_api_key_here
 #### Command Line Interface
 ```bash
 python main_orchestrator.py
-```
-
-#### Web Interface
-```bash
-streamlit run web_interface_4_agents.py
 ```
 
 Then open http://localhost:8501 in your browser.
